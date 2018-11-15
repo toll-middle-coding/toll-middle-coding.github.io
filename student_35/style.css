@@ -1,0 +1,18 @@
+body {
+  background-color: aqua;
+}
+
+a {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
+p:hover {
+  color: green;
+}
+
+marquee {
+}
