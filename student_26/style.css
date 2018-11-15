@@ -1,0 +1,13 @@
+body {
+  background-color:  skyblue;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 24px;
+  margin: 0;
+  color: #44;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
